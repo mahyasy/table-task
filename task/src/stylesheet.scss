@@ -1,0 +1,41 @@
+$myColor:#9f8ee7;
+
+
+.bdr{
+     border-radius: 15px;
+     overflow: hidden;
+     
+   }
+   .container{
+ 
+     margin-top: 10px;
+   max-width: 480px;
+     
+  
+ 
+   }
+ 
+     
+thead{
+  background-color: $myColor;
+tr{
+  th{
+    color: white;
+  }
+}
+}
+   tr{
+     .inps{
+          border-radius: 10px ;
+    outline: none;
+    color: rgb(11, 9, 9);
+    background: none;
+ max-width: 100%;
+ 
+     }
+     td ,th{
+          color: black;
+     }
+   }
+
+   
